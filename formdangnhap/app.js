@@ -37,7 +37,7 @@ function checkForm(option) {
 					username == data.username
 				) {
 					alert('Đăng nhập thành công');
-					window.location.href = 'index.html';
+					window.location.href = '../index.html';
 				}
 			}
 			checkInput();

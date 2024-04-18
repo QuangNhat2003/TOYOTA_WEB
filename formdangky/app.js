@@ -34,7 +34,7 @@ function checkForm(option) {
 				}
 			});
 			if (checkAll) {
-				window.location.href = 'formdangnhap/index.html';
+				window.location.href = '../formdangnhap/index.html';
 			} else {
 				alert('Đăng ký thất bại');
 			}
