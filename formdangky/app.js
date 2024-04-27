@@ -34,7 +34,7 @@ function checkForm(option) {
 				}
 			});
 			if (checkAll) {
-				window.location.href = '/formdangnhap/index.html';
+				window.location.href = '/TOYOTA_Web/formdangnhap/index.html';
 			} else {
 				alert('Đăng ký thất bại');
 			}
